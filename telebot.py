@@ -6,7 +6,7 @@ from datetime import *
 from datetime import datetime
 from datetime import timedelta, datetime, time
 
-access_token = '286657944:AAGs7byu3fqhluKLuHobXMsnx2MaRx9Y9ck'
+access_token = ''
 # Создание бота с указанным токеном доступа
 bot = telebot.TeleBot(access_token)
 
